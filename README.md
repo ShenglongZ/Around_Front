@@ -1,3 +1,34 @@
+A geo-based social network Single-page web application with React JS and Elasticseach as NoSQL database.
+
+### Primary Features:
+- User authentication using token-based registration/login/logout flow
+- Image and Video uploading.
+- Build GeoIndex on Post locations to search geo-based range search with Elasticsearch
+- Implemented user image face detection with Google Vision API
+- Map marker for user location
+
+### Front-end:
+- React JS
+- Ant Design
+- react router
+- react-grid-gallery
+ 
+### Back-end:
+- Go
+- Elasticsearch
+- Google Cloud Storage
+- Google Compute Engine
+- Google Vision API
+- Google Map API
+- Google Kubernetes Engine
+- Docker container
+- CircleCI
+### Deployment:
+-GKE Google Kubernetes Engine
+
+
+
+###########################
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
